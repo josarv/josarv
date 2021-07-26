@@ -1,5 +1,6 @@
 # Links
 
+- [Packaging python](https://packaging.python.org/overview/)
 - [Snap packages](https://ubuntu.com/tutorials/create-your-first-snap)
 - [Python apps](https://snapcraft.io/docs/python-apps)
 - [Setuptools](https://setuptools.readthedocs.io/en/latest/userguide/quickstart.html)
