@@ -1,11 +1,13 @@
 # Package and distribute applications
 
-# Pip
+Various resources on packaging and distributing applications
+
+## Pip
 
 1. [Setuptools](https://setuptools.readthedocs.io/en/latest/userguide/quickstart.html)
 2. [Package python](https://packaging.python.org/tutorials/packaging-projects/)
 
-# Snap
+## Snap
 
 - [Snap guide](https://ubuntu.com/tutorials/create-your-first-snap)
 - [Snap Doc](https://snapcraft.io/docs/creating-a-snap)
