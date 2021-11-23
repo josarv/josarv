@@ -4,8 +4,8 @@ Various resources on packaging and distributing applications
 
 ## Pip
 
-1. [Setuptools](https://setuptools.readthedocs.io/en/latest/userguide/quickstart.html)
-2. [Package python](https://packaging.python.org/tutorials/packaging-projects/)
+- [Setuptools](https://setuptools.readthedocs.io/en/latest/userguide/quickstart.html)
+- [Package python](https://packaging.python.org/tutorials/packaging-projects/)
 
 ## Snap
 
