@@ -9,6 +9,11 @@
 ------------------------------------------------------------------------------------------
 ```
 
+### Pages
+
+- [Rock Paper Scissors](https://josarv.github.io/rock-paper-scissors/)
+- [Virtual Piano](https://josarv.github.io/virtual-piano/)
+
 ### Statistics
 
 ![josarv's GitHub stats](https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=dark)<br>
