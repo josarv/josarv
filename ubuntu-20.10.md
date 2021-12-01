@@ -200,10 +200,11 @@ _Add ssh and gpg keys and use them with git, along with other settings_
 git config --global user.name "insert name here"
 git config --global user.email "insert email here"
 git config --global user.username "insert username here"
-git config --global core.editor vim
+git config --global core.editor code
 git config --global help.autocorrect 0
 git config --global user.signingkey "key here without quotes"
 git config --global commit.gpgSign true
+git config --global color.ui auto
 ```
 
 # Install terminal utilities
