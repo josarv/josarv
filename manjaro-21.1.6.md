@@ -30,10 +30,10 @@ _Change the system settings_
 
 # Install terminal utilities
 
-_Useful everyday utilities_
+_Nice distractions_
 
 ```shell
-sudo pacman -S cpu-checker neofetch xclip cmatrix
+sudo pacman -S neofetch xclip cmatrix
 ```
 
 # Install development tools
@@ -71,15 +71,6 @@ sudo snap install skype --classic
 - Add chrome/discord
 
 - [Zoom](https://zoom.us/download)
-
-
-# Add media players
-
-_When Totem doesn't quite cut it_
-
-```bash
-sudo pacman -S rhythmbox
-```
 
 # Configure git
 
