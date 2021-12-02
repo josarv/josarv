@@ -23,3 +23,31 @@ _Change the system settings_
 - System Settings -> Hardware -> Audio -> Microphone Volume -> 100%
 - System Settings -> Hardware -> Audio -> Microphone -> Mute
 - Manjaro News -> Settings -> Autostart -> Off
+- Pamac -> Preferences -> Third Party -> Enable AUR Support -> On
+- Pamac -> Preferences -> Third Party -> Enable Flatpak Support -> On
+- Pamac -> Preferences -> Third Party -> Flatpak -> Check for updates -> On
+- Pamac -> Preferences -> Third Party -> Enable Snap Support -> On
+
+
+# Install development tools
+
+_Tools of the job_
+
+```bash
+sudo apt update
+sudo pacman -S build-essential binutils flex bison gdb 
+sudo pacman -S cmake ninja-build valgrind nasm vim
+sudo pacman -S texlive-latex-extra nodejs npm mysql-server
+```
+
+# Install IDEs
+
+_Jetbrain IDEs ftw_
+
+```bash
+sudo snap install code --classic
+sudo snap install clion --classic
+sudo snap install datagrip --classic
+sudo snap install pycharm-professional --classic
+sudo snap install webstorm --classic
+```
