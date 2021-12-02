@@ -28,6 +28,13 @@ _Change the system settings_
 - Pamac -> Preferences -> Third Party -> Flatpak -> Check for updates -> On
 - Pamac -> Preferences -> Third Party -> Enable Snap Support -> On
 
+# Install terminal utilities
+
+_Useful everyday utilities_
+
+```shell
+sudo pacman -S cpu-checker neofetch xclip cmatrix
+```
 
 # Install development tools
 
@@ -36,8 +43,11 @@ _Tools of the job_
 ```bash
 sudo pacman -S base-devel gdb
 sudo pacman -S cmake ninja valgrind nasm vim
-sudo pacman -S texlive-most nodejs npm mysql-server
+sudo pacman -S texlive-most nodejs npm
 ```
+
+- Add docker
+- Add mariadb and configure it
 
 # Install IDEs
 
@@ -50,3 +60,62 @@ sudo snap install datagrip --classic
 sudo snap install pycharm-professional --classic
 sudo snap install webstorm --classic
 ```
+
+# Install web apps and clients
+
+_Every day apps_
+
+```shell
+sudo snap install skype --classic
+```
+- Add chrome/discord
+
+- [Zoom](https://zoom.us/download)
+
+
+# Add media players
+
+_When Totem doesn't quite cut it_
+
+```bash
+sudo pacman -S rhythmbox
+```
+
+# Configure git
+
+_Add ssh and gpg keys and use them with git, along with other settings_
+
+```shell
+git config --global user.name "insert name here"
+git config --global user.email "insert email here"
+git config --global user.username "insert username here"
+git config --global core.editor code
+git config --global help.autocorrect 0
+git config --global user.signingkey "key here without quotes"
+git config --global commit.gpgSign true
+git config --global color.ui auto
+```
+
+# Install virtualization software
+
+_OS in a box_
+
+```bash
+sudo apt install -y qemu qemu-kvm libvirt-daemon libvirt-clients bridge-utils virt-manager
+sudo systemctl enable --now libvirtd
+sudo usermod -aG libvirt $USER
+sudo usermod -aG kvm $USER
+reboot
+```
+
+# Wrap up
+
+_Clean up and enjoy_
+
+- Add to favourites: Chrome, Nautilus, Terminal, Gedit, Rhythmbox, Clion, DataGrip, Pycharm, Webstorm, Code, Steam, Discord
+
+```bash
+sudo apt autoremove -y
+reboot
+```
+
