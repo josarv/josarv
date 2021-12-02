@@ -34,10 +34,9 @@ _Change the system settings_
 _Tools of the job_
 
 ```bash
-sudo apt update
-sudo pacman -S build-essential binutils flex bison gdb 
-sudo pacman -S cmake ninja-build valgrind nasm vim
-sudo pacman -S texlive-latex-extra nodejs npm mysql-server
+sudo pacman -S base-devel gdb
+sudo pacman -S cmake ninja valgrind nasm vim
+sudo pacman -S texlive-most nodejs npm mysql-server
 ```
 
 # Install IDEs
