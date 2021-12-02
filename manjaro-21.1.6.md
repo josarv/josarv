@@ -22,4 +22,4 @@ _Change the system settings_
 - System Settings -> Hardware -> Audio -> Speaker Volume -> 100%
 - System Settings -> Hardware -> Audio -> Microphone Volume -> 100%
 - System Settings -> Hardware -> Audio -> Microphone -> Mute
-
+- Manjaro News -> Settings -> Autostart -> Off
