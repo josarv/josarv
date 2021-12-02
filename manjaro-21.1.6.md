@@ -68,8 +68,8 @@ _Every day apps_
 ```shell
 sudo snap install skype --classic
 ```
-- Add chrome/discord
 
+- [Chrome](https://aur.archlinux.org/packages/google-chrome/)
 - [Zoom](https://zoom.us/download)
 
 # Configure git
