@@ -103,7 +103,7 @@ reboot
 
 _Clean up and enjoy_
 
-- Add to favourites: Chrome, Nautilus, Terminal, Gedit, Rhythmbox, Clion, DataGrip, Pycharm, Webstorm, Code, Steam, Discord
+- Add to favourites: Chrome, Dolphin, Pamac, Terminal, Kate, Rhythmbox, Clion, DataGrip, Pycharm, Webstorm, Code
 
 ```bash
 sudo apt autoremove -y
