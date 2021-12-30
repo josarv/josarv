@@ -15,6 +15,7 @@
 
 - [Rock Paper Scissors](https://josarv.github.io/rock-paper-scissors/)
 - [Virtual Piano](https://josarv.github.io/virtual-piano/)
+- [Markdown Portfolio](https://josarv.github.io/markdown-portfolio/)
 
 ## :trophy: GitHub Statistics:
 
