@@ -69,6 +69,7 @@ _Install and configure GNOME extensions_
 
 Use Chrome to install Dash to dock, Transparent top bar (adjustable transparency)
 
+- Extensions -> Dash to dock -> Settings -> Launchers -> Isolate workspaces -> On
 - Extensions -> Dash to dock -> Settings -> Launchers -> Move the applications button at the beggining of the dock.
 - Extensions -> Dash to dock -> Settings -> Behavior -> Click action  -> Minimize or show previews
 - Extensions -> Dash to dock -> Settings -> Behavior -> Scroll action  -> Cycle through windows
@@ -78,7 +79,6 @@ Use Chrome to install Dash to dock, Transparent top bar (adjustable transparency
 - Extensions -> Dash to dock -> Settings -> Appearance -> Customize opacity -> Fixed
 - Extensions -> Dash to dock -> Settings -> Appearance -> Opacity -> 0%
 - Extensions -> Dash to dock -> Settings -> Appearance -> Force straight corner -> On
-- Extensions -> Transparent top bar (adjustable transparency) -> Settings -> Top bar opacity -> 0%
 
 # Configure the Desktop
 
