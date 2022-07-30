@@ -28,4 +28,6 @@
 
 </br>
 
+![](https://projecteuler.net/profile/josarv.png)
+
 _I'd make an even fancier readme, but I'm busy doing things_
