@@ -19,6 +19,7 @@
 - [Markdown Portfolio](https://josarv.github.io/markdown-portfolio/)
 - [Registration Form](https://josarv.github.io/registration-form/)
 - [Cafe Menu](https://josarv.github.io/cafe-menu/)
+- [Rothko Painting](https://josarv.github.io/rothko-painting/)
 - [Cat Photo App](https://josarv.github.io/cat-photo-app/)
 - [Color Markers](https://josarv.github.io/color-markers/)
 
