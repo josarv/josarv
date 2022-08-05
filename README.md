@@ -18,6 +18,7 @@
 - [Survey Form](https://josarv.github.io/survey-form/)
 - [Markdown Portfolio](https://josarv.github.io/markdown-portfolio/)
 - [Registration Form](https://josarv.github.io/registration-form/)
+- [Photo Gallery](https://josarv.github.io/photo-gallery/)
 - [Cafe Menu](https://josarv.github.io/cafe-menu/)
 - [Rothko Painting](https://josarv.github.io/rothko-painting/)
 - [Cat Photo App](https://josarv.github.io/cat-photo-app/)
