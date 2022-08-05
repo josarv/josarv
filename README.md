@@ -16,6 +16,7 @@
 - [Rock Paper Scissors](https://josarv.github.io/rock-paper-scissors/)
 - [Virtual Piano](https://josarv.github.io/virtual-piano/)
 - [Markdown Portfolio](https://josarv.github.io/markdown-portfolio/)
+- [Registration Form](https://josarv.github.io/registration-form/)
 - [Cafe Menu](https://josarv.github.io/cafe-menu/)
 - [Cat Photo App](https://josarv.github.io/cat-photo-app/)
 - [Color Markers](https://josarv.github.io/color-markers/)
