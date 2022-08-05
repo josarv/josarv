@@ -25,8 +25,6 @@
 ![](https://projecteuler.net/profile/josarv.png)
 
 </br>
-</br>
-</br>
 
 ## :page_facing_up: GitHub Pages
 
