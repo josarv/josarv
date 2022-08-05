@@ -25,8 +25,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=josarv&theme=dark">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True)" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True" />
 </a>
 
 </br>
