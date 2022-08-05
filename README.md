@@ -15,6 +15,7 @@
 
 - [Rock Paper Scissors](https://josarv.github.io/rock-paper-scissors/)
 - [Virtual Piano](https://josarv.github.io/virtual-piano/)
+- [Survey Form](https://josarv.github.io/survey-form/)
 - [Markdown Portfolio](https://josarv.github.io/markdown-portfolio/)
 - [Registration Form](https://josarv.github.io/registration-form/)
 - [Cafe Menu](https://josarv.github.io/cafe-menu/)
