@@ -37,7 +37,7 @@
 - AI, Machine Learning, Big Data, Data analysis
 - Computer graphics, Renderers, Game development
 
-### :thinking: Areas of current activity:
+### :thinking: Areas of current focus:
 
 - University studies, online studies, programming challenges
 - Full stack web development, fast algorithm implementation
@@ -115,9 +115,11 @@
 <br>
 <a href="https://projecteuler.net/profile/josarv.png">
   <img src="https://projecteuler.net/profile/josarv.png">
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </a>
 </details>
 
-<!--
-add github activity
--->
+<details>
+<summary>:zap: Recent Activity</summary>
+</details>
