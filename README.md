@@ -24,6 +24,11 @@
 }
 ```
 
+<!-- ### :link: Connect: -->
+
+<!--cv, linkedin, google scholar, dblp, personal page, email-->
+
+
 ### :bulb: Areas of interest:
 
 - Algorithms, Data structures
@@ -41,7 +46,7 @@
 ---
 
 <details>
-<summary>Technologies</summary>
+<summary>:robot: Technologies</summary>
 <!-- TODO: When I upload some form of CV make the icons match it -->
 <p float="left">
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -78,12 +83,29 @@
 </details>
 
 <!-- <details>
-<summary>Projects</summary>
+<summary>:seedling: Projects</summary>
 </details> -->
+
+<details>
+<summary>:page_facing_up: Pages</summary>
+<ul>
+<li><a href="https://josarv.github.io/rock-paper-scissors/">Rock Paper Scissors</a></li>
+<li><a href="https://josarv.github.io/virtual-piano/">Virtual Piano</a></li>
+<li><a href="https://josarv.github.io/survey-form/">Survey Form</a></li>
+<li><a href="https://josarv.github.io/markdown-portfolio/">Markdown Portfolio</a></li>
+<li><a href="https://josarv.github.io/registration-form/">Registration Form</a></li>
+<li><a href="https://josarv.github.io/photo-gallery/">Photo Gallery</a></li>
+<li><a href="https://josarv.github.io/nutrition-label/">Nutrition Label</a></li>
+<li><a href="https://josarv.github.io/cafe-menu/">Cafe Menu</a></li>
+<li><a href="https://josarv.github.io/rothko-painting/">Rothko Painting</a></li>
+<li><a href="https://josarv.github.io/color-markers/">Color Markers</a></li>
+<li><a href="https://josarv.github.io/cat-photo-app/">Cat Photo App</a></li>
+</ul>
+</details>
 
 <!-- TODO: Configure cards (https://github.com/anuraghazra/github-readme-stats) -->
 <details>
-<summary>Statistics</summary>
+<summary>:rocket: Statistics</summary>
 <a href="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True">
   <img src="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True" />
 </a>
@@ -95,10 +117,6 @@
   <img src="https://projecteuler.net/profile/josarv.png">
 </a>
 </details>
-
-<!-- ### About
-
-cv, linkedin, google scholar, dblp, personal page, email-->
 
 <!--
 add github activity
