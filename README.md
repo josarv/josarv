@@ -24,8 +24,6 @@
 }
 ```
 
-
-
 ### :bulb: Areas of interest:
 
 - Algorithms, Data structures
@@ -34,7 +32,7 @@
 - AI, Machine Learning, Big Data, Data analysis
 - Computer graphics, Renderers, Game development
 
-### :thinking: Areas of recent activity:
+### :thinking: Areas of current activity:
 
 - University studies, online studies, programming challenges
 - Full stack web development, fast algorithm implementation
@@ -77,3 +75,30 @@
 </p>
 
 ---
+
+<!-- <details>
+<summary>Projects</summary>
+</details> -->
+
+<!-- TODO: Configure cards (https://github.com/anuraghazra/github-readme-stats) -->
+<details>
+<summary>Statistics</summary>
+<a href="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True">
+  <img src="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True&langs_count=10">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True&langs_count=10" />
+</a>
+<br>
+<a href="https://projecteuler.net/profile/josarv.png">
+  <img src="https://projecteuler.net/profile/josarv.png">
+</a>
+</details>
+
+<!-- ### About
+
+cv, linkedin, google scholar, dblp, personal page, email-->
+
+<!--
+add github activity
+-->
