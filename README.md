@@ -11,7 +11,7 @@
 
 ---
 
-## :wave:  Hey people
+## :wave: Hey people
 
 ```json
 {
@@ -26,7 +26,7 @@
 
 
 
-### :bulb:  Areas of interest:
+### :bulb: Areas of interest:
 
 - Algorithms, Data structures
 - Operating Systems, Systems Development
@@ -34,13 +34,13 @@
 - AI, Machine Learning, Big Data, Data analysis
 - Computer graphics, Renderers, Game development
 
-### :thinking:  Areas of recent activity:
+### :thinking: Areas of recent activity:
 
 - University studies, online studies, programming challenges
 - Full stack web development, fast algorithm implementation
 - Online security, static & dynamic analysis, support learning
 
-### :robot:  Some technologies I use:
+### :robot: Some technologies I use:
 
 <!-- TODO: When I upload some form of CV make the icons match it -->
 <p float="left">
