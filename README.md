@@ -38,8 +38,10 @@
 - Full stack web development, fast algorithm implementation
 - Online security, static & dynamic analysis, support learning
 
-### :robot: Some technologies I use:
+---
 
+<details>
+<summary>Technologies</summary>
 <!-- TODO: When I upload some form of CV make the icons match it -->
 <p float="left">
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -73,8 +75,7 @@
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="4%" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </p>
-
----
+</details>
 
 <!-- <details>
 <summary>Projects</summary>
