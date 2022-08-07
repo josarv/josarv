@@ -43,7 +43,7 @@
 ### :robot:  Some technologies I use:
 
 <!-- TODO: When I upload some form of CV make the icons match it -->
-<br>
+
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -59,7 +59,6 @@
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<br><br><br>
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
@@ -75,6 +74,7 @@
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="c" width="45px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+
 <br><br><br><br>
 
 ---
