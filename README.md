@@ -109,8 +109,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True">
   <img src="https://github-readme-stats.vercel.app/api?username=josarv&show_icons=true&theme=nord&hide_border=True&include_all_commits=True&count_private=True&hide_rank=True" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True&langs_count=10">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True&langs_count=10" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True&langs_count=10&hide=dart,swift,java,objective-c">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=josarv&layout=compact&theme=nord&hide_border=True&langs_count=10&hide=dart,swift,java,objective-c" />
 </a>
 <br>
 <a href="https://projecteuler.net/profile/josarv.png">
