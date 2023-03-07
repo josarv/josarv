@@ -31,11 +31,11 @@
 
 ### :bulb: Areas of interest:
 
-- Algorithms, Data structures
-- Operating Systems, Systems Development
+- Algorithms, Data Structures
+- Operating Systems, Systems Development, Database Management Systems
 - Programming Languages, Compiler Infrastracture
-- AI, Machine Learning, Big Data, Data analysis
-- Computer graphics, Renderers, Game development
+- AI, Machine Learning, Big Data, Data Analysis
+- Computer Graphics, Renderers, Game Development
 
 ### :thinking: Areas of current focus:
 
