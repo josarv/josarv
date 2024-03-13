@@ -86,23 +86,6 @@
 <summary>:seedling: Projects</summary>
 </details> -->
 
-<details>
-<summary>:page_facing_up: Pages</summary>
-<ul>
-<li><a href="https://josarv.github.io/rock-paper-scissors/">Rock Paper Scissors</a></li>
-<li><a href="https://josarv.github.io/virtual-piano/">Virtual Piano</a></li>
-<li><a href="https://josarv.github.io/survey-form/">Survey Form</a></li>
-<li><a href="https://josarv.github.io/markdown-portfolio/">Markdown Portfolio</a></li>
-<li><a href="https://josarv.github.io/registration-form/">Registration Form</a></li>
-<li><a href="https://josarv.github.io/photo-gallery/">Photo Gallery</a></li>
-<li><a href="https://josarv.github.io/nutrition-label/">Nutrition Label</a></li>
-<li><a href="https://josarv.github.io/cafe-menu/">Cafe Menu</a></li>
-<li><a href="https://josarv.github.io/rothko-painting/">Rothko Painting</a></li>
-<li><a href="https://josarv.github.io/color-markers/">Color Markers</a></li>
-<li><a href="https://josarv.github.io/cat-photo-app/">Cat Photo App</a></li>
-</ul>
-</details>
-
 <!-- TODO: Configure cards (https://github.com/anuraghazra/github-readme-stats) -->
 <details>
 <summary>:rocket: Statistics</summary>
